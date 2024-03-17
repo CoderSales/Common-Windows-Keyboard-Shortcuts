@@ -40,6 +40,12 @@ Ctrl T - Open new Google Chrome Internet Browser Tab
 
 Ctrl Shift T - Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
 
+Ctrl 1 - Go to 1st Chrome tab in currently open Chrome Window
+
+Ctrl 2 - Go to 2nd Chrome tab in currently open Chrome Window 
+
+Ctrl 3 - Go to 3rd Chrome tab in currently open Chrome Window 
+
 ____
 
 Windows Ctrl V - Switch Audio Output
