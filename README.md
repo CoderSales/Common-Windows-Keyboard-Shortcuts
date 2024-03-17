@@ -14,6 +14,10 @@ Ctrl X - Cut
 
 ____
 
+WindowsKey + V - Clipboard (If Copy / Paste history is not on, there will be a button there to turn it on.)
+
+____
+
 Ctrl P - Print
 
 ____
