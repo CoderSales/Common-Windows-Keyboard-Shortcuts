@@ -36,6 +36,10 @@ Ctrl W - Close currently selected Google Chrome Internet Browser Tab
 
 Ctrl Shift W - Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
 
+Ctrl T - Open new Google Chrome Internet Browser Tab
+
+Ctrl Shift T - Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
+
 ____
 
 Windows Ctrl V - Switch Audio Output
