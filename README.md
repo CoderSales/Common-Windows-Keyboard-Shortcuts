@@ -28,6 +28,16 @@ Windows Tab - Switch Desktops (On Windows 11)
 
 ____
 
+Ctrl Tab - Cycle right through open Google Chrome Internet Browser Tabs
+
+Ctrl Shift Tab - Cycle left through open Google Chrome Internet Browser Tabs
+
+Ctrl W - Close currently selected Google Chrome Internet Browser Tab
+
+Ctrl Shift W - Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
+
+____
+
 Windows Ctrl V - Switch Audio Output
 
 Windows P - Switch Display Output
