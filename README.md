@@ -100,6 +100,8 @@ Windows B then Spacebar - to expand running programs
 
 Windows B then Spacebar then arrow keys then Enter - to expand running programs select one and open program window
 
+Esc then Alt Tab - to get out of running programs
+
 ____
 
 ### Accessibility
