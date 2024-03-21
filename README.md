@@ -74,9 +74,19 @@ ____
 
 #### Non Shortcuts
 
+Click three vertical dots Menu button at top right of Chrome under the X:
+
 ![Chrome Options Button](/static/images/ChromeOptions.png)
 
+From the bottom of the Menu that appears shown here:
+
 ![Chrome Options Menu](/static/images/ChromeOptions2.png)
+
+Click Save and Share
+
+then 
+
+![Chrome Options Menu > Click and Share Menu](/static/images/ChromeOptions3.png)
 
 ____
 
