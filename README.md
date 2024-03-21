@@ -65,6 +65,11 @@ ____
 Ctrl Windows Right - Move to Right Desktop
 
 Ctrl Windows Left - Move to Left Desktop
+
+____
+
+Ctrl Windows N - Open Settings
+
 ____
 
 ## References
