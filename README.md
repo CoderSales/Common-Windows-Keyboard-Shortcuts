@@ -84,9 +84,25 @@ From the bottom of the Menu that appears shown here:
 
 Click Save and Share
 
-then 
+then from the side menu shown here:
 
 ![Chrome Options Menu > Click and Share Menu](/static/images/ChromeOptions3.png)
+
+Select Create QR Code
+
+Then Open Camera on Smartphone
+
+point at QR Code
+
+(wait)
+
+to automatically read QR Code
+
+and 
+
+Click on link that appears 
+
+to open webpage on smartphone
 
 ____
 
