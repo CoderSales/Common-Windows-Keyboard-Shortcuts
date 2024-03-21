@@ -90,4 +90,8 @@ Ctrl Windows 10 - open 10th item on Taskbar
 
 ____
 
+Alt F4 - Close Currently Selected Window / Program / Shutdown
+
+____
+
 ## References
