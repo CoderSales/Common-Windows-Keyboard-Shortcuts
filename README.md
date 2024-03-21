@@ -74,7 +74,7 @@ ____
 
 #### Non Shortcuts
 
-![Chrome Options Button](/Common-Windows-Keyboard-Shortcuts/static/images/ChromeOptions.png)
+![Chrome Options Button](/static/images/ChromeOptions.png)
 
 ____
 
