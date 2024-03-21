@@ -54,7 +54,7 @@ Windows P - Switch Display Output
 
 ____
 
-Windows Alt G - Game Bar
+Windows G - Game Bar
 
 ____
 
