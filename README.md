@@ -94,6 +94,14 @@ Alt F4 - Close Currently Selected Window / Program / Shutdown
 
 ____
 
+Windows B - Move Selection to Taskbar Bottom Right, To "Show Hidden Items" (Running Programs)
+
+Windows B then Spacebar - to expand running programs
+
+Windows B then Spacebar then arrow keys then Enter - to expand running programs select one and open program window
+
+____
+
 ### Accessibility
 
 Ctrl Windows O - On-Screen Keyboard
