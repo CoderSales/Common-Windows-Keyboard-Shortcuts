@@ -18,6 +18,12 @@ Windows V - Clipboard (If Copy / Paste history is not on, there will be a button
 
 ____
 
+Ctrl F - Find on page
+
+F3 - Find on page
+
+____
+
 Ctrl P - Print
 
 ____
