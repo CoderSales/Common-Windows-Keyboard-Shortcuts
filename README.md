@@ -76,6 +76,8 @@ ____
 
 ![Chrome Options Button](/static/images/ChromeOptions.png)
 
+![Chrome Options Menu](/static/images/ChromeOptions2.png)
+
 ____
 
 ### Windows
