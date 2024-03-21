@@ -82,7 +82,7 @@ From the bottom of the Menu that appears shown here:
 
 ![Chrome Options Menu](/static/images/ChromeOptions2.png)
 
-Click Save and Share
+Click Save and share
 
 then from the side menu shown here:
 
