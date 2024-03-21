@@ -66,6 +66,12 @@ Ctrl Shift R - Hard Refresh Page (including CSS (Cascading Style Sheets))
 
 ____
 
+Alt leftArrow - go back to last page
+
+Alt rightArrow - go forward to next page
+
+____
+
 ### Windows
 
 Windows Ctrl V - Switch Audio Output
