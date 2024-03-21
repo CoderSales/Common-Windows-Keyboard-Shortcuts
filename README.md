@@ -94,4 +94,10 @@ Alt F4 - Close Currently Selected Window / Program / Shutdown
 
 ____
 
+### Accessibility
+
+Ctrl Windows O - On-Screen Keyboard
+
+____
+
 ## References
