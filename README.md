@@ -94,7 +94,7 @@ Then Open Camera on Smartphone
 
 point at QR Code
 
-(wait)
+(wait 10 seconds)
 
 to automatically read QR Code
 
