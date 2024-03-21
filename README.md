@@ -60,7 +60,11 @@ Windows Alt B - [HDR](https://support.microsoft.com/en-us/windows/hdr-settings-i
 
 ____
 
-### if multiple Desktops Open:
+### Desktops
+
+Ctrl Windows D - Open New Desktop Window
+
+#### if multiple Desktops Open:
 
 Ctrl Windows Right - Move to Right Desktop
 
