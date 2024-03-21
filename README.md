@@ -72,6 +72,12 @@ Alt rightArrow - go forward to next page
 
 ____
 
+#### Non Shortcuts
+
+![Chrome Options Button]()
+
+____
+
 ### Windows
 
 Windows Ctrl V - Switch Audio Output
