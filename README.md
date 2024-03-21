@@ -121,6 +121,10 @@ Windows plus(+) - Zoom In / Activate Magnifier (Wait 2 seconds)
 
 Windows minus(-) - Zoom Out
 
+Ctrl Windows Enter - Access Narrator
+
+(Click Skip for Now then Exit Narrator to Deactivate Narrator)
+
 ____
 
 ## References
