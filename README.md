@@ -100,6 +100,12 @@ Ctrl Windows O - On-Screen Keyboard
 
 Windows Ctrl V - Switch Audio Output [Duplicate Entry Here]
 
+Ctrl Windows M - Magnifier Settings
+
+Windows plus(+) - Zoom In / Activate Magnifier (Wait 2 seconds)
+
+Windows minus(-) - Zoom Out
+
 ____
 
 ## References
