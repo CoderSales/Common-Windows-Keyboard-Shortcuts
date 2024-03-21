@@ -36,6 +36,8 @@ Windows Tab - Switch Desktops (On Windows 11)
 
 ____
 
+### Chrome
+
 Ctrl Tab - Cycle right through open Google Chrome Internet Browser Tabs
 
 Ctrl Shift Tab - Cycle left through open Google Chrome Internet Browser Tabs
@@ -55,6 +57,16 @@ Ctrl 2 - Go to 2nd Chrome tab in currently open Chrome Window
 Ctrl 3 - Go to 3rd Chrome tab in currently open Chrome Window 
 
 ____
+
+F5 - Refresh Page
+
+Ctrl R - Refresh Page
+
+Ctrl Shift R - Hard Refresh Page (including CSS (Cascading Style Sheets))
+
+____
+
+### Windows
 
 Windows Ctrl V - Switch Audio Output
 
