@@ -22,6 +22,8 @@ Ctrl F - Find on page
 
 F3 - Find on page
 
+(Esc to deactivate Find on page)
+
 ____
 
 Ctrl P - Print
