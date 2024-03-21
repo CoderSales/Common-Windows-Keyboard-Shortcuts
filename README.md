@@ -52,4 +52,10 @@ Windows Ctrl V - Switch Audio Output
 
 Windows P - Switch Display Output
 
+____
+
+Windows Alt G - Game Bar
+
+____
+
 ## References
