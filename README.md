@@ -98,6 +98,8 @@ ____
 
 Ctrl Windows O - On-Screen Keyboard
 
+Windows Ctrl V - Switch Audio Output [Duplicate Entry Here]
+
 ____
 
 ## References
