@@ -76,4 +76,18 @@ Ctrl Windows N - Open Settings
 
 ____
 
+Ctrl Windows 1 - open 1st (left-most) item on Taskbar
+
+Ctrl Windows 2 - open 2nd item on Taskbar
+
+Ctrl Windows 3 - open 3rd item on Taskbar
+
+...
+
+Ctrl Windows 9 - open 9th item on Taskbar
+
+Ctrl Windows 10 - open 10th item on Taskbar
+
+____
+
 ## References
