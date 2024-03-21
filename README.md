@@ -102,6 +102,11 @@ Windows B then Spacebar then arrow keys then Enter - to expand running programs 
 
 Esc then Alt Tab - to get out of running programs
 
+
+____
+
+Windows F11 - To make Current Chrome Window Partially Transparent (Toggle on / off)
+
 ____
 
 ### Accessibility
