@@ -169,6 +169,16 @@ Windows F11 - To make Current Chrome Window Partially Transparent (Toggle on / o
 
 ____
 
+### With Taskbar Selected
+
+Windows Shift Tab - Cycle through main elements of Taskbar
+
+### After pressing Windows Tab
+
+Windows Shift Tab - Cycle through Desktops New Desktop and Open Application Windows
+
+____
+
 ### Accessibility
 
 Ctrl Windows O - On-Screen Keyboard
