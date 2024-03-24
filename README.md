@@ -76,7 +76,7 @@ ____
 
 ____
 
-`Alt leftArrow` &nbsp;&nbsp;&nbsp;&nbsp; go back to last page
+`Alt leftArrow`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;go back to last page
 
 `Alt rightArrow` &nbsp;&nbsp;&nbsp;&nbsp; go forward to next page
 
