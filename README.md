@@ -44,7 +44,7 @@ ____
 
 `Ctrl W`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close currently selected Google Chrome Internet Browser Tab
 
-`Ctrl Shift W` &nbsp;&nbsp;&nbsp;&nbsp; Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
+`Ctrl Shift W`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
 
 `Ctrl T` &nbsp;&nbsp;&nbsp;&nbsp; Open new Google Chrome Internet Browser Tab
 
