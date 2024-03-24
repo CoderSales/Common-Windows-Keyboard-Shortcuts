@@ -38,7 +38,7 @@ ____
 
 ### Chrome
 
-`Ctrl Tab`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cycle right through open Google Chrome Internet Browser Tabs
+`Ctrl Tab`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cycle right through open Google Chrome Internet Browser Tabs
 
 `Ctrl Shift Tab` &nbsp;&nbsp;&nbsp;&nbsp; Cycle left through open Google Chrome Internet Browser Tabs
 
