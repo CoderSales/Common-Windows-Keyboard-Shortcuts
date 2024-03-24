@@ -26,7 +26,7 @@ ____
 
 ____
 
-`Ctrl P` &nbsp;&nbsp;&nbsp;&nbsp; Print
+`Ctrl P`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Print
 
 ____
 
