@@ -6,11 +6,11 @@ Common Windows Keyboard Shortcuts
 
 ## Content
 
-`Ctrl C` &nbsp;&nbsp;&nbsp;&nbsp; Copy
+`Ctrl C` &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Copy
 
-`Ctrl V` &nbsp;&nbsp;&nbsp;&nbsp; Paste
+`Ctrl V` &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Paste
 
-`Ctrl X` &nbsp;&nbsp;&nbsp;&nbsp; Cut
+`Ctrl X` &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Cut
 
 ____
 
