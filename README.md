@@ -124,7 +124,7 @@ ____
 
 ____
 
-`Windows G` &nbsp;&nbsp;&nbsp;&nbsp; Game Bar
+`Windows G`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Game Bar
 
 `Windows Alt B` &nbsp;&nbsp;&nbsp;&nbsp; [HDR](https://support.microsoft.com/en-us/windows/hdr-settings-in-windows-2d767185-38ec-7fdc-6f97-bbc6c5ef24e6) (High Dynamic Range) Off
 
