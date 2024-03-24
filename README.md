@@ -66,6 +66,16 @@ Ctrl Shift R - Hard Refresh Page (including CSS (Cascading Style Sheets))
 
 ____
 
+#### Chrome Zoom
+
+`Ctrl plus(+)` - Zoom in
+
+`Ctrl minus(-)` - Zoom out
+
+`Ctrl 0` - Zoom to 100 %
+
+____
+
 Alt leftArrow - go back to last page
 
 Alt rightArrow - go forward to next page
