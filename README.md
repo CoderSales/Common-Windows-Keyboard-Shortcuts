@@ -42,7 +42,7 @@ ____
 
 `Ctrl Shift Tab`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cycle left through open Google Chrome Internet Browser Tabs
 
-`Ctrl W`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close currently selected Google Chrome Internet Browser Tab
+`Ctrl W`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close currently selected Google Chrome Internet Browser Tab
 
 `Ctrl Shift W` &nbsp;&nbsp;&nbsp;&nbsp; Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
 
