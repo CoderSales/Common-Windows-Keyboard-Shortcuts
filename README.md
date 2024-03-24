@@ -120,7 +120,7 @@ ____
 
 `Windows Ctrl V` &nbsp;&nbsp;&nbsp;&nbsp; Switch Audio Output
 
-`Windows P` &nbsp;&nbsp;&nbsp;&nbsp; Switch Display Output
+`Windows P`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Switch Display Output
 
 ____
 
