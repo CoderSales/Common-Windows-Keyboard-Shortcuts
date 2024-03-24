@@ -160,7 +160,7 @@ ____
 
 ____
 
-`Alt F4` &nbsp;&nbsp;&nbsp;&nbsp; Close Currently Selected Window / Program / Shutdown
+`Alt F4`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close Currently Selected Window / Program / Shutdown
 
 ____
 
