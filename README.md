@@ -132,7 +132,7 @@ ____
 
 ### Desktops
 
-`Ctrl Windows D` &nbsp;&nbsp;&nbsp;&nbsp; Open New Desktop Window
+`Ctrl Windows D`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open New Desktop Window
 
 #### if multiple Desktops Open:
 
