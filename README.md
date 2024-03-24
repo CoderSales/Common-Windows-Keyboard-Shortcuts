@@ -68,11 +68,11 @@ ____
 
 #### Chrome Zoom
 
-`Ctrl plus(+)`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoom in
+`Ctrl plus(+)`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoom in
 
 `Ctrl minus(-)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom out
 
-`Ctrl 0` &nbsp;&nbsp;&nbsp;&nbsp; Zoom to 100 %
+`Ctrl 0`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoom to 100 %
 
 ____
 
