@@ -48,7 +48,7 @@ ____
 
 `Ctrl T`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open new Google Chrome Internet Browser Tab
 
-`Ctrl Shift T` &nbsp;&nbsp;&nbsp;&nbsp; Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
+`Ctrl Shift T`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
 
 `Ctrl 1` &nbsp;&nbsp;&nbsp;&nbsp; Go to 1st Chrome tab in currently open Chrome Window
 
