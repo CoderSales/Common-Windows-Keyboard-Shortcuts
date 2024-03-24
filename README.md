@@ -156,7 +156,7 @@ ____
 
 `Ctrl Windows 9` &nbsp;&nbsp;&nbsp;&nbsp; open 9th item on Taskbar
 
-`Ctrl Windows 10` &nbsp;&nbsp;&nbsp;&nbsp; open 10th item on Taskbar
+`Ctrl Windows 10`&nbsp;&nbsp;&nbsp;&nbsp;open 10th item on Taskbar
 
 ____
 
