@@ -20,7 +20,7 @@ ____
 
 `Ctrl F` &nbsp;&nbsp;&nbsp;&nbsp; Find on page
 
-`F3` &nbsp;&nbsp;&nbsp;&nbsp; Find on page
+`F3` &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Find on page
 
 (Esc to deactivate Find on page)
 
@@ -30,7 +30,7 @@ ____
 
 ____
 
-`Alt Tab` &nbsp;&nbsp;&nbsp;&nbsp; Switch Windows
+`Alt Tab` &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Switch Windows
 
 `Windows Tab` &nbsp;&nbsp;&nbsp;&nbsp; Switch Desktops (On Windows 11)
 
