@@ -6,7 +6,7 @@ Common Windows Keyboard Shortcuts
 
 ## Content
 
-`Ctrl C` Copy
+`Ctrl C` &emsp; Copy
 
 `Ctrl V` Paste
 
@@ -207,3 +207,7 @@ ____
 ____
 
 ## References
+
+### Formatting
+
+[How to add Tab spaces in Git Readme between two sentences? | StackOverflow](https://stackoverflow.com/questions/66828242/how-to-add-tab-spaces-in-git-readme-between-two-sentences)
