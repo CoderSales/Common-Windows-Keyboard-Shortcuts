@@ -32,7 +32,7 @@ ____
 
 `Alt Tab`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Switch Windows
 
-`Windows Tab` &nbsp;&nbsp;&nbsp;&nbsp; Switch Desktops (On Windows 11)
+`Windows Tab`&nbsp;&nbsp;&nbsp;Switch Desktops (On Windows 11)
 
 ____
 
