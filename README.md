@@ -68,7 +68,7 @@ ____
 
 #### Chrome Zoom
 
-`Ctrl plus(+)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom in
+`Ctrl plus(+)`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zoom in
 
 `Ctrl minus(-)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom out
 
