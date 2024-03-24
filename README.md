@@ -6,79 +6,79 @@ Common Windows Keyboard Shortcuts
 
 ## Content
 
-`Ctrl C` &emsp; Copy
+`Ctrl C` &nbsp;&nbsp;&nbsp;&nbsp; Copy
 
-`Ctrl V` &emsp; Paste
+`Ctrl V` &nbsp;&nbsp;&nbsp;&nbsp; Paste
 
-`Ctrl X` &emsp; Cut
-
-____
-
-`Windows V` &emsp; Clipboard (If Copy / Paste history is not on, there will be a button there to turn it on.)
+`Ctrl X` &nbsp;&nbsp;&nbsp;&nbsp; Cut
 
 ____
 
-`Ctrl F` &emsp; Find on page
+`Windows V` &nbsp;&nbsp;&nbsp;&nbsp; Clipboard (If Copy / Paste history is not on, there will be a button there to turn it on.)
 
-`F3` &emsp; Find on page
+____
+
+`Ctrl F` &nbsp;&nbsp;&nbsp;&nbsp; Find on page
+
+`F3` &nbsp;&nbsp;&nbsp;&nbsp; Find on page
 
 (Esc to deactivate Find on page)
 
 ____
 
-`Ctrl P` &emsp; Print
+`Ctrl P` &nbsp;&nbsp;&nbsp;&nbsp; Print
 
 ____
 
-`Alt Tab` &emsp; Switch Windows
+`Alt Tab` &nbsp;&nbsp;&nbsp;&nbsp; Switch Windows
 
-`Windows Tab` &emsp; Switch Desktops (On Windows 11)
+`Windows Tab` &nbsp;&nbsp;&nbsp;&nbsp; Switch Desktops (On Windows 11)
 
 ____
 
 ### Chrome
 
-`Ctrl Tab` &emsp; Cycle right through open Google Chrome Internet Browser Tabs
+`Ctrl Tab` &nbsp;&nbsp;&nbsp;&nbsp; Cycle right through open Google Chrome Internet Browser Tabs
 
-`Ctrl Shift Tab` &emsp; Cycle left through open Google Chrome Internet Browser Tabs
+`Ctrl Shift Tab` &nbsp;&nbsp;&nbsp;&nbsp; Cycle left through open Google Chrome Internet Browser Tabs
 
-`Ctrl W` &emsp; Close currently selected Google Chrome Internet Browser Tab
+`Ctrl W` &nbsp;&nbsp;&nbsp;&nbsp; Close currently selected Google Chrome Internet Browser Tab
 
-`Ctrl Shift W` &emsp; Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
+`Ctrl Shift W` &nbsp;&nbsp;&nbsp;&nbsp; Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
 
-`Ctrl T` &emsp; Open new Google Chrome Internet Browser Tab
+`Ctrl T` &nbsp;&nbsp;&nbsp;&nbsp; Open new Google Chrome Internet Browser Tab
 
-`Ctrl Shift T` &emsp; Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
+`Ctrl Shift T` &nbsp;&nbsp;&nbsp;&nbsp; Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
 
-`Ctrl 1` &emsp; Go to 1st Chrome tab in currently open Chrome Window
+`Ctrl 1` &nbsp;&nbsp;&nbsp;&nbsp; Go to 1st Chrome tab in currently open Chrome Window
 
-`Ctrl 2` &emsp; Go to 2nd Chrome tab in currently open Chrome Window 
+`Ctrl 2` &nbsp;&nbsp;&nbsp;&nbsp; Go to 2nd Chrome tab in currently open Chrome Window 
 
-`Ctrl 3` &emsp; Go to 3rd Chrome tab in currently open Chrome Window 
+`Ctrl 3` &nbsp;&nbsp;&nbsp;&nbsp; Go to 3rd Chrome tab in currently open Chrome Window 
 
 ____
 
-`F5` &emsp; Refresh Page
+`F5` &nbsp;&nbsp;&nbsp;&nbsp; Refresh Page
 
-`Ctrl R` &emsp; Refresh Page
+`Ctrl R` &nbsp;&nbsp;&nbsp;&nbsp; Refresh Page
 
-`Ctrl Shift R` &emsp; Hard Refresh Page (including CSS (Cascading Style Sheets))
+`Ctrl Shift R` &nbsp;&nbsp;&nbsp;&nbsp; Hard Refresh Page (including CSS (Cascading Style Sheets))
 
 ____
 
 #### Chrome Zoom
 
-`Ctrl plus(+)` &emsp; Zoom in
+`Ctrl plus(+)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom in
 
-`Ctrl minus(-)` &emsp; Zoom out
+`Ctrl minus(-)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom out
 
-`Ctrl 0` &emsp; Zoom to 100 %
+`Ctrl 0` &nbsp;&nbsp;&nbsp;&nbsp; Zoom to 100 %
 
 ____
 
-`Alt leftArrow` &emsp; go back to last page
+`Alt leftArrow` &nbsp;&nbsp;&nbsp;&nbsp; go back to last page
 
-`Alt rightArrow` &emsp; go forward to next page
+`Alt rightArrow` &nbsp;&nbsp;&nbsp;&nbsp; go forward to next page
 
 ____
 
@@ -118,89 +118,89 @@ ____
 
 ### Windows
 
-`Windows Ctrl V` &emsp; Switch Audio Output
+`Windows Ctrl V` &nbsp;&nbsp;&nbsp;&nbsp; Switch Audio Output
 
-`Windows P` &emsp; Switch Display Output
+`Windows P` &nbsp;&nbsp;&nbsp;&nbsp; Switch Display Output
 
 ____
 
-`Windows G` &emsp; Game Bar
+`Windows G` &nbsp;&nbsp;&nbsp;&nbsp; Game Bar
 
-`Windows Alt B` &emsp; [HDR](https://support.microsoft.com/en-us/windows/hdr-settings-in-windows-2d767185-38ec-7fdc-6f97-bbc6c5ef24e6) (High Dynamic Range) Off
+`Windows Alt B` &nbsp;&nbsp;&nbsp;&nbsp; [HDR](https://support.microsoft.com/en-us/windows/hdr-settings-in-windows-2d767185-38ec-7fdc-6f97-bbc6c5ef24e6) (High Dynamic Range) Off
 
 ____
 
 ### Desktops
 
-`Ctrl Windows D` &emsp; Open New Desktop Window
+`Ctrl Windows D` &nbsp;&nbsp;&nbsp;&nbsp; Open New Desktop Window
 
 #### if multiple Desktops Open:
 
-`Ctrl Windows Right`&emsp;  Move to Right Desktop
+`Ctrl Windows Right`&nbsp;&nbsp;&nbsp;&nbsp;  Move to Right Desktop
 
-`Ctrl Windows Left` &emsp; Move to Left Desktop
-
-____
-
-`Ctrl Windows N` &emsp; Open Settings
+`Ctrl Windows Left` &nbsp;&nbsp;&nbsp;&nbsp; Move to Left Desktop
 
 ____
 
-`Ctrl Windows 1` &emsp; open 1st (left-most) item on Taskbar
+`Ctrl Windows N` &nbsp;&nbsp;&nbsp;&nbsp; Open Settings
 
-`Ctrl Windows 2` &emsp; open 2nd item on Taskbar
+____
 
-`Ctrl Windows 3` &emsp; open 3rd item on Taskbar
+`Ctrl Windows 1` &nbsp;&nbsp;&nbsp;&nbsp; open 1st (left-most) item on Taskbar
+
+`Ctrl Windows 2` &nbsp;&nbsp;&nbsp;&nbsp; open 2nd item on Taskbar
+
+`Ctrl Windows 3` &nbsp;&nbsp;&nbsp;&nbsp; open 3rd item on Taskbar
 
 ...
 
-`Ctrl Windows 9` &emsp; open 9th item on Taskbar
+`Ctrl Windows 9` &nbsp;&nbsp;&nbsp;&nbsp; open 9th item on Taskbar
 
-`Ctrl Windows 10` &emsp; open 10th item on Taskbar
-
-____
-
-`Alt F4` &emsp; Close Currently Selected Window / Program / Shutdown
+`Ctrl Windows 10` &nbsp;&nbsp;&nbsp;&nbsp; open 10th item on Taskbar
 
 ____
 
-`Windows B` &emsp; Move Selection to Taskbar Bottom Right, To "Show Hidden Items" (Running Programs)
-
-`Windows B` &emsp; then `Spacebar` to expand running programs
-
-`Windows B` &emsp; then `Spacebar` then `arrow keys` then `Enter` to expand running programs select one and open program window
-
-`Esc` then `Alt Tab` &emsp; to get out of running programs
+`Alt F4` &nbsp;&nbsp;&nbsp;&nbsp; Close Currently Selected Window / Program / Shutdown
 
 ____
 
-`Windows F11` &emsp; To make Current Chrome Window Partially Transparent (Toggle on / off)
+`Windows B` &nbsp;&nbsp;&nbsp;&nbsp; Move Selection to Taskbar Bottom Right, To "Show Hidden Items" (Running Programs)
+
+`Windows B` &nbsp;&nbsp;&nbsp;&nbsp; then `Spacebar` to expand running programs
+
+`Windows B` &nbsp;&nbsp;&nbsp;&nbsp; then `Spacebar` then `arrow keys` then `Enter` to expand running programs select one and open program window
+
+`Esc` then `Alt Tab` &nbsp;&nbsp;&nbsp;&nbsp; to get out of running programs
+
+____
+
+`Windows F11` &nbsp;&nbsp;&nbsp;&nbsp; To make Current Chrome Window Partially Transparent (Toggle on / off)
 
 ____
 
 ### With Taskbar Selected
 
-`Windows Shift Tab` &emsp; Cycle through main elements of Taskbar
+`Windows Shift Tab` &nbsp;&nbsp;&nbsp;&nbsp; Cycle through main elements of Taskbar
 
 ### After pressing Windows Tab
 
-`Windows Shift Tab` &emsp; Cycle through Desktops New Desktop and Open Application Windows
+`Windows Shift Tab` &nbsp;&nbsp;&nbsp;&nbsp; Cycle through Desktops New Desktop and Open Application Windows
 
 ____
 
 ### Accessibility
 
-`Ctrl Windows O` &emsp; On-Screen Keyboard
+`Ctrl Windows O` &nbsp;&nbsp;&nbsp;&nbsp; On-Screen Keyboard
 
-`Windows Ctrl V` &emsp; Switch Audio Output [Duplicate Entry Here]
+`Windows Ctrl V` &nbsp;&nbsp;&nbsp;&nbsp; Switch Audio Output [Duplicate Entry Here]
 
-`Ctrl Windows M` &emsp; Magnifier Settings
+`Ctrl Windows M` &nbsp;&nbsp;&nbsp;&nbsp; Magnifier Settings
 
-`Windows plus(+)` &emsp; Zoom In / Activate Magnifier (Wait 2 seconds)
+`Windows plus(+)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom In / Activate Magnifier (Wait 2 seconds)
 
-`Windows minus(-)` &emsp; Zoom Out
+`Windows minus(-)` &nbsp;&nbsp;&nbsp;&nbsp; Zoom Out
 
-`Ctrl Windows Enter` &emsp; Access Narrator
+`Ctrl Windows Enter` &nbsp;&nbsp;&nbsp;&nbsp; Access Narrator
 
 (Click Skip for Now then Exit Narrator to Deactivate Narrator)
 
