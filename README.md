@@ -8,77 +8,77 @@ Common Windows Keyboard Shortcuts
 
 `Ctrl C` &emsp; Copy
 
-`Ctrl V` Paste
+`Ctrl V` &emsp; Paste
 
-`Ctrl X` Cut
-
-____
-
-`Windows V` Clipboard (If Copy / Paste history is not on, there will be a button there to turn it on.)
+`Ctrl X` &emsp; Cut
 
 ____
 
-`Ctrl F` Find on page
+`Windows V` &emsp; Clipboard (If Copy / Paste history is not on, there will be a button there to turn it on.)
 
-`F3` Find on page
+____
+
+`Ctrl F` &emsp; Find on page
+
+`F3` &emsp; Find on page
 
 (Esc to deactivate Find on page)
 
 ____
 
-`Ctrl P` Print
+`Ctrl P` &emsp; Print
 
 ____
 
-`Alt Tab` Switch Windows
+`Alt Tab` &emsp; Switch Windows
 
-`Windows Tab` Switch Desktops (On Windows 11)
+`Windows Tab` &emsp; Switch Desktops (On Windows 11)
 
 ____
 
 ### Chrome
 
-`Ctrl Tab` Cycle right through open Google Chrome Internet Browser Tabs
+`Ctrl Tab` &emsp; Cycle right through open Google Chrome Internet Browser Tabs
 
-`Ctrl Shift Tab` Cycle left through open Google Chrome Internet Browser Tabs
+`Ctrl Shift Tab` &emsp; Cycle left through open Google Chrome Internet Browser Tabs
 
-`Ctrl W` Close currently selected Google Chrome Internet Browser Tab
+`Ctrl W` &emsp; Close currently selected Google Chrome Internet Browser Tab
 
-`Ctrl Shift W` Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
+`Ctrl Shift W` &emsp; Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
 
-`Ctrl T` Open new Google Chrome Internet Browser Tab
+`Ctrl T` &emsp; Open new Google Chrome Internet Browser Tab
 
-`Ctrl Shift T` Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
+`Ctrl Shift T` &emsp; Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
 
-`Ctrl 1` Go to 1st Chrome tab in currently open Chrome Window
+`Ctrl 1` &emsp; Go to 1st Chrome tab in currently open Chrome Window
 
-`Ctrl 2` Go to 2nd Chrome tab in currently open Chrome Window 
+`Ctrl 2` &emsp; Go to 2nd Chrome tab in currently open Chrome Window 
 
-`Ctrl 3` Go to 3rd Chrome tab in currently open Chrome Window 
+`Ctrl 3` &emsp; Go to 3rd Chrome tab in currently open Chrome Window 
 
 ____
 
-`F5` Refresh Page
+`F5` &emsp; Refresh Page
 
-`Ctrl R` Refresh Page
+`Ctrl R` &emsp; Refresh Page
 
-`Ctrl Shift R` Hard Refresh Page (including CSS (Cascading Style Sheets))
+`Ctrl Shift R` &emsp; Hard Refresh Page (including CSS (Cascading Style Sheets))
 
 ____
 
 #### Chrome Zoom
 
-`Ctrl plus(+)` - Zoom in
+`Ctrl plus(+)` &emsp; Zoom in
 
-`Ctrl minus(-)` - Zoom out
+`Ctrl minus(-)` &emsp; Zoom out
 
-`Ctrl 0` - Zoom to 100 %
+`Ctrl 0` &emsp; Zoom to 100 %
 
 ____
 
-`Alt leftArrow` go back to last page
+`Alt leftArrow` &emsp; go back to last page
 
-`Alt rightArrow` go forward to next page
+`Alt rightArrow` &emsp; go forward to next page
 
 ____
 
@@ -118,89 +118,89 @@ ____
 
 ### Windows
 
-`Windows Ctrl V` Switch Audio Output
+`Windows Ctrl V` &emsp; Switch Audio Output
 
-`Windows P` Switch Display Output
+`Windows P` &emsp; Switch Display Output
 
 ____
 
-`Windows G` Game Bar
+`Windows G` &emsp; Game Bar
 
-`Windows Alt B` [HDR](https://support.microsoft.com/en-us/windows/hdr-settings-in-windows-2d767185-38ec-7fdc-6f97-bbc6c5ef24e6) (High Dynamic Range) Off
+`Windows Alt B` &emsp; [HDR](https://support.microsoft.com/en-us/windows/hdr-settings-in-windows-2d767185-38ec-7fdc-6f97-bbc6c5ef24e6) (High Dynamic Range) Off
 
 ____
 
 ### Desktops
 
-`Ctrl Windows D` Open New Desktop Window
+`Ctrl Windows D` &emsp; Open New Desktop Window
 
 #### if multiple Desktops Open:
 
-`Ctrl Windows Right` Move to Right Desktop
+`Ctrl Windows Right`&emsp;  Move to Right Desktop
 
-`Ctrl Windows Left` Move to Left Desktop
-
-____
-
-`Ctrl Windows N` Open Settings
+`Ctrl Windows Left` &emsp; Move to Left Desktop
 
 ____
 
-`Ctrl Windows 1` open 1st (left-most) item on Taskbar
+`Ctrl Windows N` &emsp; Open Settings
 
-`Ctrl Windows 2` open 2nd item on Taskbar
+____
 
-`Ctrl Windows 3` open 3rd item on Taskbar
+`Ctrl Windows 1` &emsp; open 1st (left-most) item on Taskbar
+
+`Ctrl Windows 2` &emsp; open 2nd item on Taskbar
+
+`Ctrl Windows 3` &emsp; open 3rd item on Taskbar
 
 ...
 
-`Ctrl Windows 9` open 9th item on Taskbar
+`Ctrl Windows 9` &emsp; open 9th item on Taskbar
 
-`Ctrl Windows 10` open 10th item on Taskbar
-
-____
-
-`Alt F4` Close Currently Selected Window / Program / Shutdown
+`Ctrl Windows 10` &emsp; open 10th item on Taskbar
 
 ____
 
-`Windows B` Move Selection to Taskbar Bottom Right, To "Show Hidden Items" (Running Programs)
-
-`Windows B` then `Spacebar` to expand running programs
-
-`Windows B` then `Spacebar` then `arrow keys` then `Enter` to expand running programs select one and open program window
-
-`Esc` then `Alt Tab` to get out of running programs
+`Alt F4` &emsp; Close Currently Selected Window / Program / Shutdown
 
 ____
 
-`Windows F11` To make Current Chrome Window Partially Transparent (Toggle on / off)
+`Windows B` &emsp; Move Selection to Taskbar Bottom Right, To "Show Hidden Items" (Running Programs)
+
+`Windows B` &emsp; then `Spacebar` to expand running programs
+
+`Windows B` &emsp; then `Spacebar` then `arrow keys` then `Enter` to expand running programs select one and open program window
+
+`Esc` then `Alt Tab` &emsp; to get out of running programs
+
+____
+
+`Windows F11` &emsp; To make Current Chrome Window Partially Transparent (Toggle on / off)
 
 ____
 
 ### With Taskbar Selected
 
-`Windows Shift Tab` Cycle through main elements of Taskbar
+`Windows Shift Tab` &emsp; Cycle through main elements of Taskbar
 
 ### After pressing Windows Tab
 
-`Windows Shift Tab` Cycle through Desktops New Desktop and Open Application Windows
+`Windows Shift Tab` &emsp; Cycle through Desktops New Desktop and Open Application Windows
 
 ____
 
 ### Accessibility
 
-`Ctrl Windows O` On-Screen Keyboard
+`Ctrl Windows O` &emsp; On-Screen Keyboard
 
-`Windows Ctrl V` Switch Audio Output [Duplicate Entry Here]
+`Windows Ctrl V` &emsp; Switch Audio Output [Duplicate Entry Here]
 
-`Ctrl Windows M` Magnifier Settings
+`Ctrl Windows M` &emsp; Magnifier Settings
 
-`Windows plus(+)` Zoom In / Activate Magnifier (Wait 2 seconds)
+`Windows plus(+)` &emsp; Zoom In / Activate Magnifier (Wait 2 seconds)
 
-`Windows minus(-)` Zoom Out
+`Windows minus(-)` &emsp; Zoom Out
 
-`Ctrl Windows Enter` Access Narrator
+`Ctrl Windows Enter` &emsp; Access Narrator
 
 (Click Skip for Now then Exit Narrator to Deactivate Narrator)
 
@@ -210,4 +210,42 @@ ____
 
 ### Formatting
 
+____
+____
+
+```markdown
+&nbsp; 
+```
+
+to add a single space
+
+____
+
+```markdwon
+&ensp;
+```
+
+to add 2 spaces
+
+____
+
+```markdown
+&emsp;
+```
+
+to add 4 spaces
+
+____
+
+```markdown
+&nbsp;&nbsp;&nbsp;&nbsp;
+```
+
+to insert a tab
+
+____
+
 [How to add Tab spaces in Git Readme between two sentences? | StackOverflow](https://stackoverflow.com/questions/66828242/how-to-add-tab-spaces-in-git-readme-between-two-sentences)
+
+____
+____
