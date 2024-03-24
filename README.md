@@ -46,7 +46,7 @@ ____
 
 `Ctrl Shift W`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Close ALL Google Chrome Internet Browser Tabs in The Entire Currently Open Chrome Window 
 
-`Ctrl T`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open new Google Chrome Internet Browser Tab
+`Ctrl T`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open new Google Chrome Internet Browser Tab
 
 `Ctrl Shift T` &nbsp;&nbsp;&nbsp;&nbsp; Go to last used Google Chrome Internet Tab in Last most recently used Chrome Window
 
