@@ -206,6 +206,12 @@ ____
 
 ____
 
+### Troubleshooting
+
+If mouse is disappearing, <kbd>F5</kbd> to make mouse reappear
+
+____
+
 ## References
 
 ### Formatting
@@ -248,4 +254,7 @@ ____
 [How to add Tab spaces in Git Readme between two sentences? | StackOverflow](https://stackoverflow.com/questions/66828242/how-to-add-tab-spaces-in-git-readme-between-two-sentences)
 
 ____
+
+[My cursor has disappeared. How do I get it to show on screen?](https://answers.microsoft.com/en-us/windows/forum/all/my-cursor-has-disappeared-how-do-i-get-it-to-show/c5174e14-6f91-4f01-aa85-8bdc3af01f2e)
+
 ____
