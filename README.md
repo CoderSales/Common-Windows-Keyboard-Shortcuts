@@ -36,7 +36,7 @@ ____
 
 ____
 
-`<kbd>Shift</kbd>Delete<kbd></kbd> - Deletes entire line` (at least in Git Commit Message Box for GitHub in Left Side Sourc Control (Git) Gui in Visual Studio Code)
+`Shift Delete` - Deletes entire line (at least in Git Commit Message Box for GitHub in Left Side Sourc Control (Git) Gui in Visual Studio Code)
 
 ____
 
